@@ -1,4 +1,4 @@
-
+```
 /**
  * Cript And Decript baseado em AES-256-CBC 
  * 
@@ -25,3 +25,5 @@ function encriptarDecriptar($string, $action = 'encrypt')
     }
     return $output;
 }
+```` 
+```
